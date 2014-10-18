@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cathy's Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+</head>
+<body>
+	<div class="container">
+	<div class="row">
+		<div class="col-md-6">
+			<img src="http://placehold.it/200x200">
+		</div>
+		<div class="col-md-6">
+			Cathy's Portfolio<br>
+			Front-end Ninja
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<img src="http://placehold.it/960x500">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-4">
+			<img src="http://placehold.it/300x300">
+		</div>
+		<div class="col-md-4">
+			<img src="http://placehold.it/300x300">
+		</div>
+		<div class="col-md-4">
+			<img src="http://placehold.it/300x300">
+		</div>
+	</div>
+	</div>
+</body>
+</html>
+
+
